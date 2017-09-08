@@ -1,1 +1,1 @@
-#Output of news from the database Mysql#
+# Output of news from the database Mysql
