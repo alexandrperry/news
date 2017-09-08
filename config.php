@@ -1,6 +1,6 @@
 <?php
 
-define('DB_HOST','mysql.hostinger.com.ua');
-define('DB_USER','u614450603_admin');
-define('DB_PSWRD','ch1997ch');
-define('DB_NAME','u614450603_news');
+define('DB_HOST','name_of_host');
+define('DB_USER','user');
+define('DB_PSWRD','password');
+define('DB_NAME','name_of_database');
